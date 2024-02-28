@@ -8,7 +8,7 @@ I'm proficient in languages such as JavaScript, TypeScript, CSS, and HTML, and I
 Estoy emocionado por el viaje que me espera ¡Vamos a crear cosas increíbles juntos!.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/diego-soto-72a097238/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-soto-72a097238/) 
 
 
 # 💻 Tech Stack:
