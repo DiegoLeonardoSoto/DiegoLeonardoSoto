@@ -20,7 +20,6 @@
     <td><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="200"></td>
     <td><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="200"></td>
     <td><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="my-sql" width="200"></td>
-    
     <td><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="200"></td>
     <td><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgreSQL" width="200"></td>
   </tr>
@@ -34,7 +33,6 @@
     <td><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="200"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="200"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="200"/></td>
-    
     <td><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="ilustrator" width="200"/></td>
     <td><img src="https://upload.vectorlogo.zone/logos/adobe_illustrator/images/57bdc1fd-fa3d-4a30-98b9-baaac55e3e15.svg" alt="photoshop" width="200"/></td>
   </tr>
