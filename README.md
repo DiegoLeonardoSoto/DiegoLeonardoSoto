@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Diego Soto</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
 
-# 💫 About Me:
-Hello! I'm Diego Soto, a programming and graphic design student with a passion for web development and interface design. I specialize in frontend development and I'm committed to enhancing my skills and gaining experience in collaborative development teams.
-I'm proficient in languages such as JavaScript, TypeScript, CSS, and HTML, and I'm excited to contribute to projects that drive innovation on the web. While I don't have professional experience yet, I'm eager to learn and grow in this environment.
-
-Estoy emocionado por el viaje que me espera ¡Vamos a crear cosas increíbles juntos!.
+# Hi 👋, I'm Diego Soto:
+Hello! I'm Diego Soto, a Frontend developer with React and Typescript, and also a graphic design student with a passion for web development and interface design.
+I am excited to work together!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-soto-72a097238/) 
